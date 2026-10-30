@@ -1,0 +1,42 @@
+<Solution>
+  <Folder Name="/Task0/">
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task0.V10.Lib/Tyuiu.RomanovS.Sprint1.Task0.V10.Lib.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task0.V10.Test/Tyuiu.RomanovS.Sprint1.Task0.V10.Test.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task0.V10/Tyuiu.RomanovS.Sprint1.Task0.V10.csproj" />
+  </Folder>
+  <Folder Name="/Task1/">
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task1.V18.Lib/Tyuiu.RomanovS.Sprint1.Task1.V18.Lib.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task1.V18.Test/Tyuiu.RomanovS.Sprint1.Task1.V18.Test.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task1.V18/Tyuiu.RomanovS.Sprint1.Task1.V18.csproj" />
+  </Folder>
+  <Folder Name="/Task2/">
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task2.V24.Lib/Tyuiu.RomanovS.Sprint1.Task2.V24.Lib.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task2.V24.Test/Tyuiu.RomanovS.Sprint1.Task2.V24.Test.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task2.V24/Tyuiu.RomanovS.Sprint1.Task2.V24.csproj" />
+  </Folder>
+  <Folder Name="/Task3/">
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task3.V14.Lib/Tyuiu.RomanovS.Sprint1.Task3.V14.Lib.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task3.V14.Test/Tyuiu.RomanovS.Sprint1.Task3.V14.Test.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task3.V14/Tyuiu.RomanovS.Sprint1.Task3.V14.csproj" />
+  </Folder>
+  <Folder Name="/Task4/">
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task4.V6.Lib/Tyuiu.RomanovS.Sprint1.Task4.V6.Lib.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task4.V6.Test/Tyuiu.RomanovS.Sprint1.Task4.V6.Test.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task4.V6/Tyuiu.RomanovS.Sprint1.Task4.V6.csproj" />
+  </Folder>
+  <Folder Name="/Task5/">
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task5.V6.Lib/Tyuiu.RomanovS.Sprint1.Task5.V6.Lib.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task5.V6.Test/Tyuiu.RomanovS.Sprint1.Task5.V6.Test.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task5.V6/Tyuiu.RomanovS.Sprint1.Task5.V6.csproj" />
+  </Folder>
+  <Folder Name="/Task6/">
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task6.V13.Lib/Tyuiu.RomanovS.Sprint1.Task6.V13.Lib.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task6.V13.Test/Tyuiu.RomanovS.Sprint1.Task6.V13.Test.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task6.V13/Tyuiu.RomanovS.Sprint1.Task6.V13.csproj" />
+  </Folder>
+  <Folder Name="/Task7/">
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task7.V10.Lib/Tyuiu.RomanovS.Sprint1.Task7.V10.Lib.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task7.V10.Test/Tyuiu.RomanovS.Sprint1.Task7.V10.Test.csproj" />
+    <Project Path="Tyuiu.RomanovS.Sprint1.Task7.V10/Tyuiu.RomanovS.Sprint1.Task7.V10.csproj" />
+  </Folder>
+</Solution>
